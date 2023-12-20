@@ -1,6 +1,6 @@
-# sport_monitor
+# Sport Monitor
 
-A new Flutter project.
+Application Flutter du suivi des activites de sport.
 
 ## Getting Started
 
